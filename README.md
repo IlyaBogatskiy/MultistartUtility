@@ -1,4 +1,4 @@
-# MultistartUtility
+# Multistart Utility
 Utility to run multiple applications at the same time
 
 * The first version of the utility to run multiple applications at the same time and control processes
